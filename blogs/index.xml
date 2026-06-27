@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>When an Algorithm Meets a Hospital Bed</title>
+				<link>https://hugo-profile.netlify.app/blogs/algorithm-and-hospital-bed/</link>
+				<pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://hugo-profile.netlify.app/blogs/algorithm-and-hospital-bed/</guid>
+				<description>&lt;h1 id=&#34;when-an-algorithm-meets-a-hospital-bed-why-ethical-ai-matters&#34;&gt;When an Algorithm Meets a Hospital Bed: Why Ethical AI Matters&lt;/h1&gt;&#xA;&lt;p&gt;Artificial intelligence is often introduced to us as a promise: faster decisions, better predictions, lower costs, and more efficient systems. In many settings, that promise is real. AI can help doctors detect disease, help analysts find patterns, and help organizations respond more quickly to complex problems.&lt;/p&gt;&#xA;&lt;p&gt;But when AI enters the places where human beings are most vulnerable, we must ask deeper questions. Not only: Can this technology work? But also: Who does it affect? Who understands it? Who can challenge it? And who is responsible when it causes harm?&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The Hidden Data Trail</title>
 				<link>https://hugo-profile.netlify.app/blogs/hidden-data-trails/</link>
