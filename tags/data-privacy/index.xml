@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Data Privacy on RAMcLean Profile</title>
+		<link>https://hugo-profile.netlify.app/tags/data-privacy/</link>
+		<description>Recent content in Data Privacy on RAMcLean Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://hugo-profile.netlify.app/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Hidden Data Trail</title>
+				<link>https://hugo-profile.netlify.app/blogs/hidden-data-trails/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://hugo-profile.netlify.app/blogs/hidden-data-trails/</guid>
+				<description>&lt;h1 id=&#34;the-hidden-data-trail-ethics-trust-and-anonymous-surveys&#34;&gt;The Hidden Data Trail: Ethics, Trust, and Anonymous Surveys&lt;/h1&gt;&#xA;&lt;p&gt;At first glance, an end of course survey may seem harmless. A course ends, participants answer a few questions, and management uses the results to improve future learning. That sounds responsible. It sounds practical. It sounds like data science doing exactly what it should do: collecting feedback, finding patterns, and helping people make better decisions.&lt;/p&gt;&#xA;&lt;p&gt;But ethics in data science often begins with a simple question: To what extent can anyone be harmed or negatively impacted by this process?*&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

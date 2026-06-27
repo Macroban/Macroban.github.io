@@ -1,65 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on Robert McLean Profile</title>
-		<link>https://Macroban.github.io/tags/</link>
-		<description>Recent content in Tags on Robert McLean Profile</description>
+		<title>Tags on RAMcLean Profile</title>
+		<link>https://hugo-profile.netlify.app/tags/</link>
+		<description>Recent content in Tags on RAMcLean Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+			<lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://Macroban.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Data Analytics</title>
+				<link>https://hugo-profile.netlify.app/tags/data-analytics/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/data-analytics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Data Privacy</title>
+				<link>https://hugo-profile.netlify.app/tags/data-privacy/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/data-privacy/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ethics</title>
+				<link>https://hugo-profile.netlify.app/tags/ethics/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/ethics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Communication</title>
+				<link>https://hugo-profile.netlify.app/tags/communication/</link>
+				<pubDate>Sat, 13 Jun 2026 14:30:00 -0400</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/communication/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Professional Relationships</title>
+				<link>https://hugo-profile.netlify.app/tags/professional-relationships/</link>
+				<pubDate>Sat, 13 Jun 2026 14:30:00 -0400</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/professional-relationships/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Example</title>
-				<link>https://Macroban.github.io/tags/example/</link>
-				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/example/</guid>
+				<link>https://hugo-profile.netlify.app/tags/example/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/example/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Markdown Syntax</title>
-				<link>https://Macroban.github.io/tags/markdown-syntax/</link>
-				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/markdown-syntax/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mathjax</title>
-				<link>https://Macroban.github.io/tags/mathjax/</link>
-				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/mathjax/</guid>
+				<link>https://hugo-profile.netlify.app/tags/markdown-syntax/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>https://hugo-profile.netlify.app/tags/markdown-syntax/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sample</title>
-				<link>https://Macroban.github.io/tags/sample/</link>
+				<link>https://hugo-profile.netlify.app/tags/sample/</link>
 				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/sample/</guid>
+				<guid>https://hugo-profile.netlify.app/tags/sample/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Emoji Support</title>
-				<link>https://Macroban.github.io/tags/emoji-support/</link>
+				<link>https://hugo-profile.netlify.app/tags/emoji-support/</link>
 				<pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/emoji-support/</guid>
+				<guid>https://hugo-profile.netlify.app/tags/emoji-support/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Placeholder Text</title>
-				<link>https://Macroban.github.io/tags/placeholder-text/</link>
+				<link>https://hugo-profile.netlify.app/tags/placeholder-text/</link>
 				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/placeholder-text/</guid>
+				<guid>https://hugo-profile.netlify.app/tags/placeholder-text/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rich Content</title>
-				<link>https://Macroban.github.io/tags/rich-content/</link>
+				<link>https://hugo-profile.netlify.app/tags/rich-content/</link>
 				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-				<guid>https://Macroban.github.io/tags/rich-content/</guid>
+				<guid>https://hugo-profile.netlify.app/tags/rich-content/</guid>
 				<description></description>
 			</item>
 	</channel>
