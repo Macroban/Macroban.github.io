@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Robert McLean Profile</title>
-		<link>https://Macroban.github.io/es/</link>
-		<description>Recent content on Robert McLean Profile</description>
+		<title>RAMcLean Profile</title>
+		<link>https://hugo-profile.netlify.app/es/</link>
+		<description>Recent content on RAMcLean Profile</description>
 		<generator>Hugo</generator>
 		<language>es</language>
 		
 		
 		
 		
-			<atom:link href="https://Macroban.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://hugo-profile.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
